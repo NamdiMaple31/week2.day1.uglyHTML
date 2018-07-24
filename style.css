@@ -1,0 +1,60 @@
+body {
+    background: rgb(53, 53, 53, 53);
+    color: whitesmoke;
+}
+
+.top {
+    font-family: 'Tangerine' , 'cursive';
+    font-size: 72px;
+    text-align: center;
+    
+}
+
+h3 {
+    font-family:'Unica One';
+    font-size:26px; 
+    margin-top:20px;
+    margin-bottom:auto;
+    margin-right:auto;
+    margin-left:auto;
+    }
+
+.watch_container {
+    font-family: 'Unica One';
+    background-color: #1A1818;
+    border-color: #FDEFA6 solid;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 13px;
+    margin-bottom: 15px;
+    margin-left:50px;
+    margin-right:50px;
+    padding:16px;
+     } 
+     
+
+
+.watch_description {
+    font-family: 'Dosis';
+}
+
+.watch_container img {
+    float: left;
+    height: 200px;
+    margin-left: 10px;
+    margin-right:10px;
+}
+
+.text h2 {
+   margin-top:16px;
+   margin-bottom:16px;
+   font-size:26px;
+}
+
+footer {
+    margin-top:10px;
+    margin-bottom:25px;
+    text-align:center;
+    font-size:30px;
+    font-family: ;
+}
